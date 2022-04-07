@@ -17,5 +17,5 @@
 
     <project name="kraj/meta-clang" path="meta-clang" upstream="dunfell" revision="e63d6f9abba5348e2183089d6ef5ea384d7ae8d8" />
 
-    <project name="CogentEmbedded/meta-rcar" path="meta-rcar" revision="a99eb54e9b068375b306fec53f1530f7eb780014" upstream="v4.7.0" />
+    <project name="CogentEmbedded/meta-rcar" path="meta-rcar" revision="d6bd39e2213bd7be19e3a68b7ce168378d212f97" upstream="v4.7.0" />
 </manifest>
